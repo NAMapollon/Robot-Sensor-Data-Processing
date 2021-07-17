@@ -15,3 +15,7 @@ And for Stereo image, used this two images.
 ![right](https://user-images.githubusercontent.com/77718867/126030265-4cdc6cfd-3458-414a-8cf6-968018f8b5a8.png)
 
 - Image for right
+
+> Requirements
+
+- Python 3.8 or the latest version
