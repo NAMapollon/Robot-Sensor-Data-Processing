@@ -13,4 +13,8 @@ And for Disparity map and 3D Reconstruction, used this two images.
 
 > Requirements
 
-- Python 3.8 or the latest version
+- Python 3.X
+
+- OpenCV 3.X
+
+- Open3D
